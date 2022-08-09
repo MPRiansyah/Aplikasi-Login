@@ -1,1 +1,2 @@
 halo ini file
+ini file main
